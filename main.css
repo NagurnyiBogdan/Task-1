@@ -1,0 +1,644 @@
+header
+{
+    margin-left: -8px;
+    margin-top: -8px;
+    width: 1280px;
+    height: 745px;
+    background-image: url(images/Header/1.png);
+}
+.style
+{
+    font-size: 11.1pt;
+    font-family: Pompadur;
+    display: inline-block;
+    color: white;
+    text-transform: uppercase;
+    position: relative;
+    letter-spacing: 3.4px;
+}
+#nav1
+{
+    margin-left: 272px;
+    top: -11.5px;
+}
+#nav2
+{
+    margin-left: 58.2px;
+    top: -11.5px;
+}
+#nav3
+{
+    margin-left: 94px;
+    top: -11.5px;
+}
+#nav4
+{
+    margin-left: 71px;
+    top: -11.5px;
+}
+#logo
+{
+    position: relative;
+    width: 53px;
+    height: 55px;
+    display: inline-block;
+    background-image: url(images/Header/2.png);
+    margin-left: 96px;
+    margin-top: 40px;
+}
+h1
+{
+    text-align: center;
+    margin-top: 235px;
+    margin-left: 6px;
+    font-family: Pompadur;
+    font-size: 26.9pt;
+    color: white;
+    letter-spacing: 5.5px;
+    text-transform: uppercase;
+}
+#p1
+{
+    color: white;
+    font-size: 12pt;
+    font-family: PompadurMedium;
+    text-align: center;
+    letter-spacing: 2.45px;
+    text-transform: lowercase;
+    margin-left: 1px;
+    margin-top: -17px;
+}
+.GetStarted
+{
+    font-family: Pompadur;
+    color: white;
+    font-size: 8.7pt;
+    margin-left: 557px;
+    width:166px;
+    height: 49px;
+    border: 0px;
+    border-radius: 3px;
+    margin-top: 9px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: #16a085;
+}
+
+#Button1
+{
+    text-align: center;
+    position: relative;
+    padding-top: 6px;
+}
+#logo2
+{
+    background-image: url(images/Header/3.png);
+    width: 98px;
+    height: 21px;
+    position: relative;
+    margin-left: 591px;
+    margin-top: 222px;
+}
+#Second
+{
+    margin-top: -14px;
+    margin-left: -8px;
+    width: 1280px;
+    height: 494px;
+    background-image: url(images/Second/2.jpg);
+    position: relative;
+}
+h2
+{
+    text-transform: uppercase;
+    color: #16a085;
+    font-size: 13pt;
+    font-family: Pompadur;
+    margin-left: 129px;
+    letter-spacing: 3.1px;
+    position: relative;
+    top: 109px;
+    line-height: 21.9px;
+}
+#p2
+{
+    color: #5b5b5c;
+    font-family: PompadurBook;
+    font-size: 9pt;
+    margin-left: 128px;
+    letter-spacing: 1.8px;
+    line-height: 24.8px;
+    margin-top: 149px;
+}
+.boldp
+{
+    font-family: Pompadur;
+}
+#Button2
+{
+    margin-left: 129px;
+    margin-top: 29px;
+    width: 192px;
+    height: 50px;
+}
+#Button2p
+{
+    font-family: Pompadur;
+    font-size: 8.5pt;
+    color: white;
+    position: relative;
+    top: 1px;
+    left: 1px;
+    letter-spacing: 2.2px;
+    text-align: center;
+}
+
+#Hand
+{
+    width: 642px;
+    height: 401px;
+    background-image: url(images/Second/5.png);
+    margin-left: 510px;
+    margin-top: -310px;
+}
+#Third
+{
+    width: 1280px;
+    height: 559px;
+    background-color: white;
+    position: relative;
+    margin-left: -8px;
+    margin-top: -1px;
+}
+h3
+{
+    text-transform: uppercase;
+    color: #16a085;
+    font-size: 12.8pt;
+    font-family: Pompadur;
+    letter-spacing: 3.5px;
+    top: 125.8px;
+    margin-left: 765px;
+    line-height: 21.9px;
+    position: relative;
+}
+#p3
+{
+    position: relative;
+    font-family: PompadurBook;
+    font-size: 9pt;
+    letter-spacing: 1.8px;
+    line-height: 22.9px;
+    top: 141px;
+    left: 768px;
+    color: #373737;
+}
+.LearnMore
+{
+    font-family: Pompadur;
+    color: white;
+    font-size: 8.7pt;
+    margin-left: 558px;
+    width:192px;
+    height: 51px;
+    border: 0px;
+    margin-top: 12px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    background-color: #16a085;
+}
+#Button3
+{
+    font-family: Pompadur;
+    font-size: 8.6pt;
+    color: white;
+    position: relative;
+    top: 154px;
+    left: 209px;
+    letter-spacing: 2.2px;
+    text-align: center;
+}
+#p3Learn
+{
+    margin-left: -6px;
+}
+#p3_1
+{
+    font-family: Pompadur;
+    font-size: 9pt;
+    letter-spacing: 2px;
+    margin-top: 198px;
+    margin-left: 766px;
+    position: relative;
+}
+#Angles
+{
+    width: 43px;
+    height: 16px;
+    margin-left: 767px;
+    margin-top: -7px;
+    background-image: url(images/Third/Angles.png);
+    position: relative;
+}
+#Iphone5c
+{
+    margin-top: -330px;
+    margin-left: 124px;
+    height: 412px;
+    width: 314px;
+    position: relative;
+    background-image: url(images/Third/iPhone.png);
+}
+#Fourth
+{
+    margin-left: -8px;
+    top: -38px;
+    height: 485px;
+    width: 1280px;
+    background-image: url(images/Fourth/2.jpg);
+    position: relative;
+    background-repeat: no-repeat;
+}
+#Angles2
+{
+    width: 38px;
+    height: 16px;
+    margin-left: 1113px;
+    margin-top: -270px;
+    background-image: url(images/Fourth/Angles.png);
+    position: relative;
+
+}
+
+#Photo
+{
+   margin-left: 187px;
+   width: 59px;
+   height: 55px;
+   background-image: url(images/Fourth/Logo2.png);
+   margin-top: 91px;
+   position: relative;
+}
+h4
+{
+    font-family: Pompadur;
+    font-size: 11pt;
+    letter-spacing: 3.4px;
+    color: #373737;
+    top: 248px;
+    left: 128px;
+    text-transform: uppercase;
+    position: relative;
+}
+#Car
+{
+    background-image: url(images/Fourth/BlueCar.png);
+    width: 370px;
+    height: 244px;
+    margin-left: 386px;
+    margin-top: -99px;
+    position: relative;
+}
+#Leaves
+{
+    background-image: url(images/Fourth/Leaves.png);
+    width: 371px;
+    height: 244px;
+    margin-left: 780px;
+    margin-top: -244px;
+}
+#p4
+{
+    top: 249px;
+    left: -422px;
+    font-family: PompadurMedium;
+    font-size: 7pt;
+    letter-spacing: 1.9px;
+    color: #373737;
+    text-align: center;
+    position: relative;
+    vertical-align: middle;
+    line-height: 12px;
+}
+
+#Fifth
+{
+    margin-top: -78px;
+    margin-left: -8px;
+    height: 790px;
+    width: 1280px;
+    position: relative;
+    background-image: url(images/Fifth/Background.png);
+}
+h5
+{
+    top: 347px;
+    margin-left: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    position: relative;
+    font-size: 17.3pt;
+    letter-spacing: 4.26px;
+    color: white;
+    font-family: Pompadur;
+}
+#Email
+{
+    height: 60px;
+    position: relative;
+    top: 335px;
+    left: 467px;
+}
+#InputMail
+{
+    font-family: PompadurMedium;
+    font-size: 11.8pt;
+    letter-spacing: 2.5px;
+    display: inline-block;
+    width: 258px;
+    height: 60px;
+    position: relative;
+    top: -24px;
+    border: 0px;
+    padding: 0px;
+    padding-left: 22px;
+    vertical-align: middle;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+
+#ButtonMail
+{
+    display: inline-block;
+    width: 63px;
+    height: 60px;
+    left: -4px;
+    background-color: #16a085;
+    position: relative;
+    top: 2px;
+    border: 0px;
+    padding: 0px;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+
+#Check
+{
+    position: relative;
+    top: 2px;
+    left: 23px;
+    width: 20px;
+    height: 16px;
+    background-image: url(images/Fifth/Check.png);
+}
+#Sixth
+{
+    margin-top: -1px;
+    margin-left: -8px;
+    background-image: url(images/Sixth/2.jpg);
+    width: 1280px;
+    height: 395px;
+}
+
+h6
+{
+    position: relative;
+    margin: 0px;
+    font-size: 15pt;
+    text-transform: uppercase;
+    font-family: Pompadur;
+    top: 87px;
+    color: #373737;
+    letter-spacing: 3px;
+    text-align: center;
+}
+#p6
+{
+    position: relative;
+    margin: 0px;
+    top: 93px;
+    letter-spacing: 1.8px;
+    line-height: 22px;
+    font-size: 9pt;
+    font-family: PompadurMedium;
+    text-align: center;
+    color: #373737;
+    text-transform: uppercase;
+}
+.AppStoreButton
+{
+    height: 56px;
+    display: inline-block;
+    position: relative;
+    top: 110px;
+    left: 330px;
+}
+#Applebutton
+{
+    width: 240px;
+    height: 56px;
+    position: relative;
+    background-color: #1abc9c;
+    display: inline-block;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    vertical-align: middle;
+}
+#p6ap
+{
+    font-family: Pompadur;
+    letter-spacing: 2.6px;
+    font-size: 11.8pt;
+    top: 5px;
+    left: -26px;
+    position: relative;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+#AppleIcon
+{
+    display: inline-block;
+    top: 24px;
+    left: -4px;
+    width: 56px;
+    height: 56px;
+    border: 0px;
+    background-color: #16a085;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    position: relative;
+}
+#apIcon
+{
+    width: 21px;
+    height: 24px;
+    top: 16px;
+    left: 16.5px;
+    position: relative;
+    background-image: url(images/Sixth/Apple.png);
+}
+#Android
+{
+    margin-left: 18px;
+}
+.AndroidStoreButton
+{
+    height: 56px;
+    display: inline-block;
+    position: relative;
+    top: 110px;
+    left: 330px;
+}
+
+#Androidbutton
+{
+    width: 240px;
+    height: 56px;
+    position: relative;
+    background-color: #1abc9c;
+    display: inline-block;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    vertical-align: middle;
+}
+#p6andr
+{
+    font-family: Pompadur;
+    letter-spacing: 4px;
+    font-size: 12pt;
+    top: 4px;
+    left: -18px;
+    position: relative;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+#AndroidIcon
+{
+    display: inline-block;
+    top: 24px;
+    left: -4px;
+    width: 56px;
+    height: 56px;
+    border: 0px;
+    background-color: #16a085;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    position: relative;
+}
+#andrIcon
+{
+    width: 25px;
+    height: 29px;
+    top: 13.5px;
+    left: 15.5px;
+    position: relative;
+    background-image: url(images/Sixth/Android.png);
+}
+footer
+{
+    width: 1280px;
+    height: 130px;
+    left: -8px;
+    top: 2px;
+    position: relative;
+}
+.Footnav
+{
+    display: inline-block;
+    top: 29px;
+    left: 124px;
+    font-family: Pompadur;
+    letter-spacing: 2.56px;
+    font-size: 10pt;
+    color: #373737;
+}
+#Credits
+{
+    margin-right: 5px;
+    margin-left: 2px;
+    position: relative;
+    text-transform: uppercase;
+}
+#Privacy
+{
+    margin-right: 2px;
+    margin-left: 5px;
+    position: relative;
+    text-transform: uppercase;
+}
+#Teams
+{
+    margin-right: 5px;
+    margin-left: 7px;
+    position: relative;
+    text-transform: uppercase;
+}
+.Spliter
+{
+    display: inline-block;
+    width: 0;
+    height: 13px;
+    border-left: 1px solid #16a085;
+    border-right: 1px solid #16a085;
+}
+#Split1
+{
+    top: 32px;
+    position: relative;
+    left: 123px;
+}
+#Split2
+{
+    top: 32px;
+    position: relative;
+    left: 125px;
+}
+#Copyright
+{
+    position: relative;
+    top: 22px;
+    left: 126px;
+    font-family: Pompadur;
+    letter-spacing: 2.45px;
+    font-size: 10pt;
+    color: #373737;
+}
+#PhotoFooter
+{
+    width: 53px;
+    height: 55px;
+    position: relative;
+    display: inline-block;
+    background-image:url(images/Footer/Logo.png);
+    float: right;
+    right: 129px;
+    top: -49px;
+}
+
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #373737;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #373737;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #373737;
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: #373737;
+}
+ @font-face {
+    font-family: Pompadur;
+    src: url(Fonts/GothamRoundedBold_21016.ttf);
+}
+@font-face {
+    font-family: PompadurMedium;
+    src: url(Fonts/GothamRoundedMedium_21022.ttf);
+}
+@font-face {
+    font-family: PompadurBook;
+    src: url(Fonts/GothamRoundedBook_21018.ttf)
+}
